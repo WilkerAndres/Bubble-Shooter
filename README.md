@@ -18,8 +18,8 @@
 
 ## License
 
-Created by Jorge.P.
+Created by Wilker.
 
 ## Link
 
-https://github.com/JorgePerezGarcia/Bubble-Shooter
+https://github.com/WilkerAndres/Bubble-Shooter
